@@ -1,0 +1,122 @@
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 1.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 2.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 3.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 4.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 5.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 6.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 7.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 8.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 9.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 10.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 11.
+NO - Monster path mismatch for monster 1
+Reference monster path: 7 3 4 1
+Student monster path: 7 6 4 1
+Reference and student outputs do not match for input 12.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 13.
+NO - Monster path mismatch for monster 1
+Reference monster path: 38 17 23 1
+Student monster path: 38 46 41 1
+Reference and student outputs do not match for input 14.
+NO - Monster path mismatch for monster 1
+Reference monster path: 6 31 47 1
+Student monster path: 6 49 97 1
+Reference and student outputs do not match for input 15.
+NO - Monster path mismatch for monster 1
+Reference monster path: 51 15 1
+Student monster path: 51 16 1
+Reference and student outputs do not match for input 16.
+NO - Monster path mismatch for monster 2
+Reference monster path: 51 83 48 1
+Student monster path: 51 92 24 1
+Reference and student outputs do not match for input 17.
+NO - Monster path mismatch for monster 2
+Reference monster path: 475 70 425 1
+Student monster path: 475 263 118 1
+Reference and student outputs do not match for input 18.
+NO - Monster path mismatch for monster 4
+Reference monster path: 469 17 30 1
+Student monster path: 469 181 289 1
+Reference and student outputs do not match for input 19.
+NO - Monster path mismatch for monster 3
+Reference monster path: 352 144 137 1
+Student monster path: 352 422 195 1
+Reference and student outputs do not match for input 20.
+NO - Monster path mismatch for monster 1
+Reference monster path: 239 13 430 1
+Student monster path: 239 320 4 1
+Reference and student outputs do not match for input 21.
+NO - Monster path mismatch for monster 3
+Reference monster path: 491 199 953 578 1
+Student monster path: 491 510 452 648 1
+Reference and student outputs do not match for input 22.
+NO - Monster path mismatch for monster 1
+Reference monster path: 564 65 505 257 1
+Student monster path: 564 65 911 380 1
+Reference and student outputs do not match for input 23.
+NO - Monster path mismatch for monster 2
+Reference monster path: 684 270 147 953 1
+Student monster path: 684 270 435 216 1
+Reference and student outputs do not match for input 24.
+NO - Monster path mismatch for monster 1
+Reference monster path: 312 582 479 160 1
+Student monster path: 312 729 12 578 1
+Reference and student outputs do not match for input 25.
+NO - Monster path mismatch for monster 2
+Reference monster path: 186 4175 8771 5323 7790 3980 5942 2297 6669 8689 7275 4030 8788 8539 1668 9129 1
+Student monster path: 186 4175 8771 5966 1034 4628 8890 3371 1449 3769 8465 8282 7184 6377 1668 9129 1
+Reference and student outputs do not match for input 26.
+NO - Monster path mismatch for monster 5
+Reference monster path: 6454 3836 2676 2812 3106 5150 4807 9738 6951 1032 823 6345 9036 789 4005 4602 1
+Student monster path: 6454 3836 2676 2812 3106 9631 1540 3221 9215 3819 3785 1410 9036 789 4005 4602 1
+Reference and student outputs do not match for input 27.
+NO - Monster path mismatch for monster 1
+Reference monster path: 1906 7226 6000 6538 8230 7970 8728 6013 9572 1275 6018 6784 3248 2248 1746 4368 1
+Student monster path: 1906 7226 6000 6989 910 1517 5799 342 6581 6882 525 326 1555 8536 9103 4368 1
+Reference and student outputs do not match for input 28.
+NO - Monster path mismatch for monster 23
+Reference monster path: 8271 6202 9485 2035 5101 2212 3896 1906 1384 7766 3372 5520 2925 5856 2155 1
+Student monster path: 8271 8476 4143 6245 470 5930 6793 3970 6256 7600 5807 6250 7941 6904 7466 1
+Reference and student outputs do not match for input 29.
+NO - Monster path mismatch for monster 10
+Reference monster path: 1894 3044 4890 6374 9010 5314 4093 5950 3118 7428 3477 3775 1052 1
+Student monster path: 1894 3044 4890 8310 996 914 1255 7654 2016 7428 3477 3775 1052 1
+Reference and student outputs do not match for input 30.
+NO - NO - Output ended before printing player situation.
+Reference and student outputs do not match for input 31.
+NO - Monster path mismatch for monster 1
+Reference monster path: 3577 2594 1232 9637 4625 7731 6608 7777 7652 389 1
+Student monster path: 3577 9865 4689 5983 5332 6022 9556 1725 6482 9109 1
+Reference and student outputs do not match for input 32.
+NO - Monster path mismatch for monster 5
+Reference monster path: 3874 3683 8583 6401 3440 7836 2598 5559 5646 9641 5796 542 1
+Student monster path: 3874 9594 7730 8880 9375 3464 7986 8257 5646 9641 5796 542 1
+Reference and student outputs do not match for input 33.
+NO - Monster path mismatch for monster 6
+Reference monster path: 4166 4774 1786 3621 94 2982 1
+Student monster path: 4166 4774 1786 5204 3142 264 1
+Reference and student outputs do not match for input 34.
+NO - Monster path mismatch for monster 3
+Reference monster path: 4360 729 5839 943 9431 5752 1
+Student monster path: 4360 729 5839 8200 5772 1873 1
+Reference and student outputs do not match for input 35.
+NO - Monster path mismatch for monster 9
+Reference monster path: 1855 1145 7076 4428 8069 1
+Student monster path: 1855 7230 7751 6077 4029 1
+Reference and student outputs do not match for input 36.
+NO - Monster path mismatch for monster 4
+Reference monster path: 8863 3437 2999 6534 5761 7825 7048 1
+Student monster path: 8863 3437 3620 453 742 8094 6717 1
+Reference and student outputs do not match for input 37.

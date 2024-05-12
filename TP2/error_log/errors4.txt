@@ -1,0 +1,6 @@
+PARTIAL - Monster paths match. Spent resources were not minimized.
+Reference and student monster outputs match for input 14.
+ PARTIAL - Monster paths match. Spent resources were not minimized.
+Reference and student monster outputs match for input 15.
+ PARTIAL - Monster paths match. Spent resources were not minimized.
+Reference and student monster outputs match for input 16.

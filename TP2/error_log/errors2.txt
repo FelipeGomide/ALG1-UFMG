@@ -1,0 +1,74 @@
+YES - OK!
+Reference and student outputs match for input 1.
+ YES - OK!
+Reference and student outputs match for input 2.
+ YES - OK!
+Reference and student outputs match for input 3.
+ YES - OK!
+Reference and student outputs match for input 4.
+ PARTIAL - Monster paths match. Student did not maximize turns played in a losing game.
+Reference and student monster outputs match for input 5.
+ PARTIAL - Monster paths match. Took an edge more expensive than allowed.
+Reference and student monster outputs match for input 6.
+ PARTIAL - Monster paths match. Took an edge more expensive than allowed.
+Reference and student monster outputs match for input 7.
+ YES - OK!
+Reference and student outputs match for input 8.
+ YES - OK!
+Reference and student outputs match for input 9.
+ YES - OK!
+Reference and student outputs match for input 10.
+ PARTIAL - Monster paths match. Player path is not a path
+Reference and student monster outputs match for input 11.
+ PARTIAL - Monster paths match. Student did not maximize turns played in a losing game.
+Reference and student monster outputs match for input 12.
+ PARTIAL - Monster paths match. Player path is not a path
+Reference and student monster outputs match for input 13.
+ PARTIAL - Monster paths match. Spent resources were not minimized.
+Reference and student monster outputs match for input 14.
+ PARTIAL - Monster paths match. Spent resources were not minimized.
+Reference and student monster outputs match for input 15.
+ PARTIAL - Monster paths match. Spent resources were not minimized.
+Reference and student monster outputs match for input 16.
+ YES - OK!
+Reference and student outputs match for input 17.
+ YES - OK!
+Reference and student outputs match for input 18.
+ PARTIAL - Monster paths match. Player path is not a path
+Reference and student monster outputs match for input 19.
+ PARTIAL - Monster paths match. Player path is not a path
+Reference and student monster outputs match for input 20.
+ YES - OK!
+Reference and student outputs match for input 21.
+ PARTIAL - Monster paths match. Player path is not a path
+Reference and student monster outputs match for input 22.
+ YES - OK!
+Reference and student outputs match for input 23.
+ YES - OK!
+Reference and student outputs match for input 24.
+ YES - OK!
+Reference and student outputs match for input 25.
+ PARTIAL - Monster paths match. Student did not maximize turns played in a losing game.
+Reference and student monster outputs match for input 26.
+ PARTIAL - Monster paths match. Took an edge more expensive than allowed.
+Reference and student monster outputs match for input 27.
+ YES - OK!
+Reference and student outputs match for input 28.
+ PARTIAL - Monster paths match. Took an edge more expensive than allowed.
+Reference and student monster outputs match for input 29.
+ PARTIAL - Monster paths match. Took an edge more expensive than allowed.
+Reference and student monster outputs match for input 30.
+ YES - OK!
+Reference and student outputs match for input 31.
+ PARTIAL - Monster paths match. Student did not maximize turns played in a losing game.
+Reference and student monster outputs match for input 32.
+ YES - OK!
+Reference and student outputs match for input 33.
+ PARTIAL - Monster paths match. Took an edge more expensive than allowed.
+Reference and student monster outputs match for input 34.
+ YES - OK!
+Reference and student outputs match for input 35.
+ YES - OK!
+Reference and student outputs match for input 36.
+ PARTIAL - Monster paths match. Player path is not a path
+Reference and student monster outputs match for input 37.
