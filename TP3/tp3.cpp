@@ -66,31 +66,6 @@ void print_grid(vector<vector<Crystal>> &grid){
     }
 }
 
-// int get_dp(int *array, int a, int b, int c){
-//     if (a > n_rows || b > mask_size || c > mask_size) throw("Wrong array call");
-
-//     return (array[a * n_rows + b * mask_size + c]);
-// }
-
-// void set_dp(int *array, int a, int b, int c, int value){
-//     if (a > n_rows || b > mask_size || c > mask_size) throw("Wrong array call");
-
-//     (array[a * n_rows + b * mask_size + c]) = value;
-// }
-
-// void fill_dp(int *array, int value){
-//     for (int i = 0; i < n_rows; i++){
-//         for (int j = 0; j < mask_size; j++){
-//             for (int k = 0; k < mask_size; k++){
-//                 array[i * n_rows + j * mask_size + k] = -1;
-//                 // printf("%d ", array[i * n_rows + j * mask_size + k]);
-//             }
-//             // printf("\n");
-//         }
-//         // printf("\n\n");
-//     }
-// }
-
 //Checa se um par de máscaras é valido
 bool valid_next_mask(int row, int mask_actual, int mask_next, vector<vector<Crystal>> &grid){
     int equal = mask_actual & mask_next;
@@ -199,8 +174,6 @@ int main(){
     vector<vector<Crystal>> *grid = new vector<vector<Crystal>>(n_rows+1, vector<Crystal>(n_columns+1));
     vector<vector<vector<int>>> *dp;
     dp = new vector<vector<vector<int>>>(n_rows+1, vector<vector<int>>(mask_size+1, vector<int>(mask_size+1, -1)));
-    // int *dp = new int[n_rows * mask_size * mask_size];
-    // fill_dp(dp, -1);
 
     read_inputs(n_crystals, *grid);
     print_grid(*grid);
