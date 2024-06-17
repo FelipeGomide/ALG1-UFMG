@@ -7,16 +7,16 @@ CPP = tp3.cpp
 
 all: $(EXE)
 
-tp2.out: $(CPP)
+$(EXE): $(CPP)
 	$(CC) $(CPP) $(CFLAGS) -o $(EXE)
 
 run: $(EXE)
 	./$(EXE)
 
-test: $(exe)
+tests: $(EXE)
 	for file in tests/* ; do echo -e "\n\n$$file"; time ./$(EXE) < $$file; done
 
-testing: $(exe)
+testing: $(EXE)
 	for file in tests/* ; do \
 		base=$$(basename "$$file");\
 	       	name=$${base%.txt};\
